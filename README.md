@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hello there, I'm Moses Asiago - aka mozeago[https://www.linkedin.com/in/mozeago/]  
 
 ## I'm a Develper and Leaner  
