@@ -1,6 +1,6 @@
 #### Hello there, I'm Moses Asiago - aka mozeago[https://www.linkedin.com/in/mozeago/]  
 
-### I'm a Develper and Leaner  
+### I'm a Developer and Learner  
 
 - I'm curently working on iShule [https://www.ishule.net/] part-time remote project  
 - I'm also a daily learner; in this field you cn never be a teacher but  leaner tring to understand things.  
