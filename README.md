@@ -1,4 +1,4 @@
-#### Hello there, I'm Moses Asiago - aka mozeago[https://www.linkedin.com/in/mozeago/]  
+#### Hello there, I'm Moses Asiago -[https://www.linkedin.com/in/mozeago/]  
 
 ### I'm a Developer and Learner  
 
