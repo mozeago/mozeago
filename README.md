@@ -1,6 +1,6 @@
 #### Hello there, I'm Moses Asiago -[https://www.linkedin.com/in/mozeago/]  
 
-### I'm a Full-Stack Developer Seeking Software Architect Role  
+### I'm a Full-Stack Developer Seeking a Software Architect Role  
 
 - I'm currently working on iShule [https://www.ishule.net/] part-time remote project  
 - A daily learner; in this field, you can never be a teacher but a learner trying to understand things.  
@@ -27,6 +27,8 @@
 - Bitbucket
 - Gitlab
 - Docker
+  ###  Currently Learning
+  - Mobile & Cloud Forensics
   
 ### Find me on:
 Twitter:[https://twitter.com/moses_asiago]  
