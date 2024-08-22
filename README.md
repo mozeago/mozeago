@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer Seeking a Software Architect Role  
 
-- I'm currently working on iShule [https://bit.ly/4bTQOpe] and [https://bit.ly/4aKT5lv], part-time remote projects  
+- I'm currently working on iShule [https://bit.ly/4bTQOpe], part-time remote projects  
 - A daily learner; in this field, you can never be a teacher but a learner trying to understand things.  
 - I'm open for remote developer roles in Full-stack Javascript (React, JSX, Node JS, Express JS), Vue3, Laravel, Inertia, Element UI, Jetpack compose, Kotlin Multiplatform Development, Django & Flask.  
 - I love Vue3  
