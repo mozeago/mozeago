@@ -1,36 +1,50 @@
-#### Hello there, I'm Moses Asiago -[https://www.linkedin.com/in/mozeago/]  
+# 👋 Hello, I'm Moses Asiago!  
+[![LinkedIn](https://img.shields.io/badge/-MosesAsiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mozeago/)](https://www.linkedin.com/in/mozeago/) [![Twitter](https://img.shields.io/badge/-@moses_asiago-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/moses_asiago)](https://twitter.com/moses_asiago)
 
-### I'm a Full-Stack Developer Seeking a Software Architect Role  
+## 🌟 Full-Stack Developer on a Journey to Software Architecture
 
-- I'm currently working on iShule [https://bit.ly/4bTQOpe], part-time remote projects  
-- A daily learner; in this field, you can never be a teacher but a learner trying to understand things.  
-- I'm open for remote developer roles in Full-stack Javascript (React, JSX, Node JS, Express JS), Vue3, Laravel, Inertia, Element UI, Jetpack compose, Kotlin Multiplatform Development, Django & Flask.  
-- I love Vue3  
+I'm a passionate **Full-Stack Developer** with a focus on designing scalable applications and a vision of transitioning into **Software Architecture**. With hands-on experience in both front-end and back-end technologies, I’m constantly evolving as a developer and exploring new technologies.
 
-#### Languages and Tools:  
-- Vue3
-- React
-- Node JS
-- Express JS
-- Laravel
-- inertia JS
-- Django
-- Flask
-- Jetpack compose
-- Typescript
-- Kotlin Multiplatform Development
-- Kotlin for Android
-  ####  Tools
-- VS code
-- GitHub
-- Git
-- Bitbucket
-- Gitlab
-- Docker
-  ###  Currently Learning
-  - Mobile & Cloud Forensics
-  
-### Find me on:
-Twitter:[https://twitter.com/moses_asiago]  
-LinkedIn:[https://www.linkedin.com/in/mozeago/]
+### 🚀 Current Projects
+- **[iShule](https://bit.ly/4bTQOpe)** – Working part-time on this impactful project.
+- Building various Projects using: in **Vue3, Laravel**, and **Kotlin**.
 
+### 💡 Philosophy
+> **"In the tech world, we are perpetual learners, constantly evolving to understand and master new things."**
+
+I’m driven by curiosity and a love for problem-solving. I believe that with every project, there’s something new to learn.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+- **Front-end:** Vue3, React, Inertia.js, Element UI, Typescript
+- **Back-end:** Node.js, Express.js, Laravel, Django, Flask
+- **Mobile Development:** Jetpack Compose, Kotlin for Android, Kotlin Multiplatform
+- **Other Tools:** Docker, Git, GitHub, Bitbucket, GitLab, VS Code
+
+### 🌱 Currently Learning
+- **Mobile & Cloud Forensics** – Exploring cybersecurity in mobile applications and cloud services.
+
+---
+
+## 📈 Stats & Achievements
+- **7+ years** of development experience across multiple platforms.
+- Expertise in Full-Stack JavaScript, Laravel, and mobile app development.
+- Strong advocate for **clean code**, **SOLID principles**, and **CI/CD** best practices.
+
+---
+
+## 💼 Open for Opportunities
+I’m actively seeking **remote Full-Stack** roles and **Software Architect** positions. My expertise spans:
+- **Full-stack JavaScript** (React, Node.js, Express.js)
+- **Vue3, Laravel, Inertia.js**
+- **Mobile Development** (Jetpack Compose, Kotlin Multiplatform)
+- **Django & Flask**
+
+---
+
+## 📫 Let's Connect!
+- **Twitter:** [@moses_asiago](https://twitter.com/moses_asiago)
+- **LinkedIn:** [Moses Asiago](https://www.linkedin.com/in/mozeago/)
