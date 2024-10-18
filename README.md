@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** with a focus on designing scalable app
 
 ### 🚀 Current Projects
 - **[iShule](https://bit.ly/4bTQOpe)** – Working part-time on this impactful project.
-- Building various Projects using: in **Vue3, Laravel**, and **Kotlin**.
+- Building various Projects using: **Vue3, Laravel**, and **Kotlin**.
 
 ### 💡 Philosophy
 > **"In the tech world, we are perpetual learners, constantly evolving to understand and master new things."**
